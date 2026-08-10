@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning advanced UI/UX frameworks, design systems, and modern AI/ML workflows.
 - 🤝 I’m looking to collaborate on UI/UX design projects, frontend engineering, and open-source applications.
 - 💬 Ask me about UI/UX Design (Figma), React.js development, and Deepfake Image Detection.
-- 💬 Ask me about: UI/UX design and Web Development
-- 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love combining creative design intuition with clean code to build highly scalable web solutions!
 
