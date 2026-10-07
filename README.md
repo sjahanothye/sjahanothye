@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=220&section=header&text=Hi%20there,%20I'm%20Sumaiya%20Jahan%20Othye%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=220&section=header&text=Hi%20there,%20I'm%20Sumaya%20Jahan%20Othye%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner"/>
 
   <h3>💻 Full-Stack Web Developer | UI/UX Designer | CSE Graduate</h3>
   <p>📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 <a href="mailto:sjahanothye1@gmail.com">sjahanothye1@gmail.com</a> &nbsp;|&nbsp; 👩‍💻 Pronouns: She/Her</p>
